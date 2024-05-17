@@ -1,5 +1,7 @@
 # 1st Place HooHacks 2024 (Art & Gaming) KeyGlow 🎹✨
 
+## [UVA Engineering Article](https://engineering.virginia.edu/news-events/news/who-won-hoohacks-2024-these-2-uva-teams-are-still-glowing)
+
 Here you'll find the code for KeyGlow, the piano instructor that lights up your keyboard with a projector to help you learn how to play the piano! This project won 1st place in the Art & Gaming category at HooHacks 2024.
 
 ## Inspiration 📜
